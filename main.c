@@ -19,6 +19,6 @@ int main(void)
     else if (input == 0)
         printf("/");
     else
-        printf("NG");
+        printf("NG")
     return 0;
 }
